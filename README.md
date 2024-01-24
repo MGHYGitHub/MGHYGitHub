@@ -33,10 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mghygithub" /></p>
 
 
-
-
-
-
 ## Github 状态图
 [![MGHYGitHub的统计数据](https://github-readme-stats.vercel.app/api?username=MGHYGitHub&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,3 +41,9 @@
 ## Github 贡献图
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGHYGitHub&theme=theme_name)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
