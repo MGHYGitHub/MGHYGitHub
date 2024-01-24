@@ -12,7 +12,7 @@
 
 ## 自我介绍
 
-<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://github.com/MGHYGitHub/MGHYGitHub/blob/e2f3fd82f3eb47bb8330b4a24baeafe99c6dfae2/img/pusheencode.gif" width="300" height="100%" /></div>
 
 - 大家好，我是🍊，来自广东河源
 - 目前是一名计应在读大学牲
