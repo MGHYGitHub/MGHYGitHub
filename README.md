@@ -1,3 +1,11 @@
+<h1 align="right">
+  <a href="https://mghy.top//">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=摸鱼不是偷懒,是为了保持心态平衡.;console.log(%22Hello%EF%BC%8CLittle🤪%22)">
+  </a>
+</h1>
+
+---
+
 <h1 align="center">Hi 👋, 我是 橙子</h1>
 <h3 align="center">来自中国河源的较缅甸的大学牲</h3>
 
