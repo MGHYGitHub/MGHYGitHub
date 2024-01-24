@@ -45,11 +45,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
 
 ## Github 贡献图
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGHYGitHub&theme=theme_name)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGHYGitHub&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
