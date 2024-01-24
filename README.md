@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mghygithub" alt="mghygithub" /></a> </p>
 
-- 我目前正在学习 **计算机应用技术**
+- 我的专业是 **计算机应用技术**
 
-- 👨‍💻 我的所有项目都可以在 [https://github.com/MGHYGitHub](https://github.com/MGHYGitHub)
+- 👨‍💻 我的所有项目都可以在 [Github](https://github.com/MGHYGitHub)
 
-- 📝 我经常写文章(大部分在摸鱼) [https://mghy.top/](https://mghy.top/)
+- 📝 我经常写文章(大部分在摸鱼) [Blog](https://mghy.top/)
 
 - 📫 如何联系我 **2970659912@qq.com**
 
@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact" alt="mghygithub" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGHYGitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![MGHYGitHub的GitHub统计数据](https://github-readme-stats.vercel.app/api?username=MGHYGitHub&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
 
