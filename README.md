@@ -8,8 +8,15 @@
 
 <h1 align="center">Hi 👋, 我是 橙子</h1>
 <h3 align="center">来自中国河源的较缅甸的大学牲</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mghygithub&label=Profile%20views&color=0e75b6&style=flat" alt="mghygithub" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mghygithub&label=Profile%20views&color=0e75b6&style=flat" alt="mghygithub" /> </p>
+欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+
+但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
+
+每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
+
+~~同学们不要学我，老是熬夜会长痘~~
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mghygithub" alt="mghygithub" /></a> </p>
 
@@ -39,7 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mghygithub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
-
-## Github 贡献图
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGHYGitHub&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
