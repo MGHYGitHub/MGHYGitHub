@@ -44,8 +44,6 @@
 
 [![MGHYGitHub的统计数据](https://github-readme-stats.vercel.app/api?username=MGHYGitHub&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mghygithub" /></p><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mghygithub" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGHYGitHub&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
