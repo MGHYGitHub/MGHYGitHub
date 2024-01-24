@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghygithub&show_icons=true&locale=en&layout=compact" alt="mghygithub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mghygithub&show_icons=true&locale=en" alt="mghygithub" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGHYGitHub)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
 
