@@ -33,5 +33,5 @@
 
 [![MGHYGitHub的GitHub统计数据](https://github-readme-stats.vercel.app/api?username=MGHYGitHub&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" &theme=transparent/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghygithub&" alt="mghygithub" /></p>
 
