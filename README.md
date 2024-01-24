@@ -10,6 +10,15 @@
 <h3 align="center">来自中国河源的较缅甸的大学牲</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mghygithub&label=Profile%20views&color=0e75b6&style=flat" alt="mghygithub" /> </p>
 
+## 自我介绍
+
+<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
+
+- 大家好，我是🍊，来自广东河源
+- 目前是一名计应在读大学牲
+- 对前端、MySQL、PHP感兴趣
+- 欢迎光临我的Github 🍧
+
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
 
 但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
